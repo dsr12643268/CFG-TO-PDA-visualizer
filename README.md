@@ -1,5 +1,15 @@
 # CFG ↔ PDA Visualizer
 
+| | |
+|---|---|
+| **Name** | Dushyant Singh Rathore |
+| **Roll Number** | 2024UCM2598 |
+| **Year** | 2nd Year |
+| **Branch** | Mathematics and Computing |
+| **Course** | Theory of Automation and Formal Languages |
+
+---
+
 A mathematically rigorous and visually extraordinary web application designed for the study of Context-Free Grammars (CFGs) and Pushdown Automata (PDAs). This tool provides an interactive environment to prove the equivalence of these two formalisms through live simulation and bi-directional conversion.
 
 ## 🚀 Key Features
@@ -83,7 +93,7 @@ src/
 
 ## 🎓 Academic Context
 
-This project was developed as part of a **BTech Final Year Project** in Computer Science & Engineering, focusing on **Theory of Computation** and **Compiler Design**.
+This project was developed as a course project for **Theory of Automation and Formal Languages**, 2nd Year, **Mathematics and Computing**.
 
 **Author:** Dushyant Singh Rathore  
 **Roll Number:** 2024UCM2598
