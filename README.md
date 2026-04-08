@@ -85,6 +85,9 @@ src/
 
 This project was developed as part of a **BTech Final Year Project** in Computer Science & Engineering, focusing on **Theory of Computation** and **Compiler Design**.
 
+**Author:** Dushyant Singh Rathore  
+**Roll Number:** 2024UCM2598
+
 ## 📜 License
 
 MIT License
